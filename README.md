@@ -116,3 +116,5 @@ Vergeet niet je poorten te openen en je firewall te activieren
      ufw allow 9151
      ufw enable
 
+
+# [Buy me a cup of coffee.](https://paypal.me/AbdelAkridi?country.x=NL&locale.x=en_US)
